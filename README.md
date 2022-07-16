@@ -1,2 +1,2 @@
 # ozturkbasri.github.io
-This is for my android Apps
+This is for my Apps
